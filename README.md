@@ -1,2 +1,2 @@
 # FIFA_20_Ratings_Prediction
-Linear regression project about explaining FIFA 20 players' overall ratings in term of their specific attributes stats.
+Fun EDA project concerning the FIFA 20 player ratings dataset - predictive modeling, data visualisation, and more.
