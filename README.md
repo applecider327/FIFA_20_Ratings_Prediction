@@ -1,4 +1,4 @@
 # FIFA 20 EDA Project
-Fun EDA project concerning the FIFA 20 player ratings dataset - predictive modeling, data visualisation, and more. 
+Fun EDA project concerning the FIFA 20 player ratings dataset. Includes regression modeling for explaining overall rating figures.
 
-https://www.kaggle.com/applecider327/football-analytics-analysing-the-fifa-20-dataset
+
